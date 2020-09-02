@@ -1,0 +1,12 @@
+name: proteom
+title:
+username:
+account: ashwingeorge483
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2595512
+bundleId: 3421539
+url: https://ashwingeorge483.shinyapps.io/proteom/
+when: 1595427708.60462
+asMultiple: FALSE
+asStatic: FALSE
